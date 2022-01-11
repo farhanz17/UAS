@@ -1,3 +1,5 @@
+![72740758-e8a00f80-3bd8-11ea-9a7f-1d7211ebe12f](https://user-images.githubusercontent.com/92637117/148957717-f4308431-77bd-4e66-a4dc-17bbb5869961.png)
+
 ### Program ini adalah program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:
 
 
